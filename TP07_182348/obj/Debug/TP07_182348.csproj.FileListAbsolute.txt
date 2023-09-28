@@ -1,0 +1,10 @@
+D:\Projetos do C#\TP07_182348\TP07_182348\bin\Debug\TP07_182348.exe.config
+D:\Projetos do C#\TP07_182348\TP07_182348\bin\Debug\TP07_182348.exe
+D:\Projetos do C#\TP07_182348\TP07_182348\bin\Debug\TP07_182348.pdb
+D:\Projetos do C#\TP07_182348\TP07_182348\obj\Debug\TP07_182348.csprojAssemblyReference.cache
+D:\Projetos do C#\TP07_182348\TP07_182348\obj\Debug\TP07_182348.Form1.resources
+D:\Projetos do C#\TP07_182348\TP07_182348\obj\Debug\TP07_182348.Properties.Resources.resources
+D:\Projetos do C#\TP07_182348\TP07_182348\obj\Debug\TP07_182348.csproj.GenerateResource.cache
+D:\Projetos do C#\TP07_182348\TP07_182348\obj\Debug\TP07_182348.csproj.CoreCompileInputs.cache
+D:\Projetos do C#\TP07_182348\TP07_182348\obj\Debug\TP07_182348.exe
+D:\Projetos do C#\TP07_182348\TP07_182348\obj\Debug\TP07_182348.pdb
